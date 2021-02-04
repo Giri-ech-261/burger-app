@@ -1,0 +1,274 @@
+{
+    "categories" : [
+        {
+            "id" : 1,
+            "level" : 1,
+            "name" : "Dog",
+            "subCategories" : [
+                {
+                    "id" : 1,
+                    "level" : 2,
+                    "name" : "Food",
+                    "subCategories" : [
+                        {
+                            "id" : 1,
+                            "level" : 3,
+                            "name" : "Dry Food"
+                        },
+                        {
+                            "id" : 2,
+                            "level" : 3,
+                            "name" : "Wet Food"
+                        },
+                        {
+                            "id" : 3,
+                            "level" : 3,
+                            "name" : "Raw Food"
+                        },
+                        {
+                            "id" : 4,
+                            "level" : 3,
+                            "name" : "Frozen Food"
+                        },
+                        {
+                            "id" : 5,
+                            "level" : 1,
+                            "name" : "Food Toppers"
+                        },
+                        {
+                            "id" : 6,
+                            "level" : 1,
+                            "name" : "Freeze-Dried "
+                        },
+                        {
+                            "id" : 7,
+                            "level" : 1,
+                            "name" : "Dehydrated Food"
+                        }
+                    ]
+                },
+                {
+                    "id" : 1,
+                    "level" : 2,
+                    "name" : "Treats",
+                    "subCategories" : [
+                        {
+                            "id" : 1,
+                            "level" : 3,
+                            "name" : "Baked Treats"
+                        },
+                        {
+                            "id" : 2,
+                            "level" : 3,
+                            "name" : "Soft & Chewy Treats"
+                        },
+                        {
+                            "id" : 3,
+                            "level" : 3,
+                            "name" : "Dental Treats"
+                        },
+                        {
+                            "id" : 4,
+                            "level" : 3,
+                            "name" : "Jerky Treats"
+                        },
+                        {
+                            "id" : 5,
+                            "level" : 3,
+                            "name" : "Natural Chews"
+                        },
+                        {
+                            "id" : 6,
+                            "level" : 3,
+                            "name" : "Training Treats"
+                        },
+                        {
+                            "id" : 7,
+                            "level" : 3,
+                            "name" : "Rawhide-Free Treats"
+                        },
+                        {
+                            "id" : 8,
+                            "level" : 3,
+                            "name" : "Functional Treats"
+                        },
+                        {
+                            "id" : 9,
+                            "level" : 3,
+                            "name" : "Baked Treats"
+                        },
+                        {
+                            "id" : 10,
+                            "level" : 3,
+                            "name" : "Soft & Chewy Treats"
+                        }
+                    ]
+                },
+                {
+                    "id" : 3,
+                    "level" : 2,
+                    "name" : "Treats Bakers",
+                    "subCategories" : [
+                        {
+                            "id" : 1,
+                            "level" : 3,
+                            "name" : " Treats"
+                        },
+                        {
+                            "id" : 2,
+                            "level" : 3,
+                            "name" : "Soft Treats"
+                        },
+                        {
+                            "id" : 3,
+                            "level" : 3,
+                            "name" : "Dental Treats"
+                        },
+                        {
+                            "id" : 4,
+                            "level" : 3,
+                            "name" : "Jerky Treats"
+                        },
+                        {
+                            "id" : 5,
+                            "level" : 3,
+                            "name" : "Bones Chews"
+                        },
+                        {
+                            "id" : 6,
+                            "level" : 3,
+                            "name" : "Training Treats"
+                        },
+                        {
+                            "id" : 7,
+                            "level" : 3,
+                            "name" : "Rawhide-Free Treats"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "level" : 1,
+            "name" : "Cat",
+            "subCategories" : [
+                {
+                    "id" : 1,
+                    "level" : 2,
+                    "name" : "Food",
+                    "subCategories" : [
+                        {
+                            "id" : 1,
+                            "level" : 3,
+                            "name" : "Dry Food"
+                        },
+                        {
+                            "id" : 2,
+                            "level" : 3,
+                            "name" : "Wet Food"
+                        },
+                        {
+                            "id" : 3,
+                            "level" : 3,
+                            "name" : "Litter & Accessories"
+                        },
+                        {
+                            "id" : 4,
+                            "level" : 3,
+                            "name" : "Frozen Food"
+                        }
+                    ]
+                },
+                {
+                    "id" : 2,
+                    "level" : 1,
+                    "name" : "Treats",
+                    "subCategories" : [
+                        {
+                            "id" : 1,
+                            "level" : 3,
+                            "name" : "Crunchy Treats"
+                        },
+                        {
+                            "id" : 2,
+                            "level" : 3,
+                            "name" : "Soft & Chewy Treats"
+                        },
+                        {
+                            "id" : 3,
+                            "level" : 3,
+                            "name" : "Catnip & Pet Grass"
+                        },
+                        {
+                            "id" : 4,
+                            "level" : 3,
+                            "name" : "Lickable Treats"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id" : 3,
+            "level" : 1,
+            "name" : "Fish",
+            "subCategories" : [
+                {
+                    "id" : 1,
+                    "level" : 2,
+                    "name" : "Food",
+                    "subCategories" : [
+                        {
+                            "id" : 1,
+                            "level" : 3,
+                            "name" : "Tropical Freshwater"
+                        },
+                        {
+                            "id" : 2,
+                            "level" : 3,
+                            "name" : "Betta"
+                        },
+                        {
+                            "id" : 3,
+                            "level" : 3,
+                            "name" : "Feeder"
+                        },
+                        {
+                            "id" : 4,
+                            "level" : 3,
+                            "name" : "Goldfish"
+                        }
+                    ]
+                },
+                {
+                    "id" : 2,
+                    "level" : 2,
+                    "name" : "Aquariums",
+                    "subCategories" : [
+                        {
+                            "id" : 1,
+                            "level" : 3,
+                            "name" : "Saltwater"
+                        },
+                        {
+                            "id" : 2,
+                            "level" : 3,
+                            "name" : "Freshwater"
+                        },
+                        {
+                            "id" : 3,
+                            "level" : 3,
+                            "name" : "Nano"
+                        },
+                        {
+                            "id" : 4,
+                            "level" : 3,
+                            "name" : "Ponds"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

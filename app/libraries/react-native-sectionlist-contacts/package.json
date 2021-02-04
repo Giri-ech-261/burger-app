@@ -1,0 +1,57 @@
+{
+  "_from": "react-native-sectionlist-contacts",
+  "_id": "react-native-sectionlist-contacts@1.1.3",
+  "_inBundle": false,
+  "_integrity": "sha512-CG7UPDQz+QoYZPGhDhJ/VCArU7B3LRo5Ac6qnr7NI3oPzJGQR5fX7ZkbS9OrFeIH2G5lxQ3xGpVUvFIJelgrFQ==",
+  "_location": "/react-native-sectionlist-contacts",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-sectionlist-contacts",
+    "name": "react-native-sectionlist-contacts",
+    "escapedName": "react-native-sectionlist-contacts",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-sectionlist-contacts/-/react-native-sectionlist-contacts-1.1.3.tgz",
+  "_shasum": "da200e1fa9667082e9418929087e0d807ea8eee8",
+  "_spec": "react-native-sectionlist-contacts",
+  "_where": "D:\\DPF\\DPF Project\\DPF_App_sprint_2\\DPF-Mobile-App",
+  "author": {
+    "name": "Roy"
+  },
+  "bugs": {
+    "url": "https://github.com/cq0702/react-native-sectionlist-contacts/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "deprecated": false,
+  "description": "address book for react native",
+  "homepage": "https://github.com/cq0702/react-native-sectionlist-contacts#readme",
+  "keywords": [
+    "react-native-sectionlist-contacts",
+    "react-native-sectionlist",
+    "sectionlistContacts",
+    "react-native",
+    "addressbook"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-sectionlist-contacts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cq0702/react-native-sectionlist-contacts.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.3"
+}

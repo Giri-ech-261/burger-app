@@ -1,0 +1,64 @@
+{
+    "status": "success",
+    "message": "Products available",
+    "data": {
+        "products": [
+          {
+            "id": "5ed51f10c68c3400101eaa38",
+            "product_name": "Vets Kitchen",
+            "product_descriptions": "Salmon for Small & Mini Sensitive Skin Puppy Kitchen",
+            "image": "",
+            "price": "115.49",
+            "actual_price": "269.99",
+            "discount_price": "90.03",
+            "rating": 5,
+            "special_offer":"yes",
+            "total_rating_count": "2300",
+            "buy_one": true,
+            "isSelected": false
+          },
+          {
+            "id": "5ec669e238d8cc0011ecb84b",
+            "product_name": "Kit Cat",
+            "product_descriptions": "Air Dried Dog Diet - Beef & Venison",
+            "image": "",
+            "price": "138.38",
+            "actual_price": "",
+            "discount_price": "160.28",
+            "rating": 4,
+            "special_offer":"no",
+            "total_rating_count": "224453408",
+            "buy_one": false,
+            "isSelected": false
+          },
+          {
+            "id": "5ed51f10c68c3400101eaa35",
+            "product_name": "Vets Kitchen",
+            "product_descriptions": "Salmon for Small & Mini Sensitive Skin Puppy Kitchen",
+            "image": "",
+            "price": "115.49",
+            "actual_price": "269.99",
+            "discount_price": "90.03",
+            "rating": 3,
+            "special_offer":"yes",
+            "total_rating_count": "2300000",
+            "buy_one": true,
+            "isSelected": false
+          },
+          {
+            "id": "5ec669e238d8cc0011ecb844",
+            "product_name": "Kit Cat",
+            "product_descriptions": "Air Dried Dog Diet - Beef & Venison",
+            "image": "",
+            "price": "138.38",
+            "actual_price": "",
+            "discount_price": "160.28",
+            "rating": 2,
+            "special_offer":"no",
+            "total_rating_count": "2300000",
+            "buy_one": false,
+            "isSelected": false
+          }
+        ]
+      }
+  }

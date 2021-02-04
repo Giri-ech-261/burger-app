@@ -1,0 +1,115 @@
+{
+    "status": "success",
+    "message": "Products available",
+    "data": {
+        "orders": [
+          {
+            "id": "5ed51f10c68c3400101eaa38",
+            "product_name": "Vets Kitchen",
+            "product_descriptions": "Salmon for Small & Mini Sensitive Skin Puppy Kitchen",
+            "image": [
+                 {
+                   "url":"https://static.pexels.com/photos/544113/pexels-photo-544113.jpeg"
+                 },
+                 {
+                   "url":"https://static.pexels.com/photos/544113/pexels-photo-544113.jpeg"
+                 },
+                 {
+                   "url":"https://static.pexels.com/photos/544113/pexels-photo-544113.jpeg"
+                 },
+                 {
+                   "url":"https://static.pexels.com/photos/544113/pexels-photo-544113.jpeg"
+                 },
+                 {
+                    "url":"https://static.pexels.com/photos/544113/pexels-photo-544113.jpeg"
+                 }
+             ],
+            "price": "115.49",
+            "actual_price": "269.99",
+            "discount_price": "90.03",
+            "rating": 5,
+            "special_offer":"yes",
+            "total_rating_count": "2300",
+            "order_day": "3"
+          },
+          {
+            "id": "5ec669e238d8cc0011ecb84b",
+            "product_name": "Kit Cat",
+            "product_descriptions": "Air Dried Dog Diet - Beef & Venison",
+            "image": [
+                 {
+                   "url":"https://l7731499c1dev-store.occa.ocs.oraclecloud.com/ccstore/v1/images/?source=/file/v8288050359649414575/products/101317.Pedigree%20Chicken%20%20Vegetables%20Adult%20Dry%20Dog%20Food-1.jpg&width=300&height=300"
+                 },
+                 {
+                   "url":"https://l7731499c1dev-store.occa.ocs.oraclecloud.com/ccstore/v1/images/?source=/file/v3073537084183009604/products/100900.PURINA%20Dog%20Chow%20Complete%20Dry%20Dog%20Food.jpg&width=300&height=300"
+                 },
+                 {
+                   "url":"https://l7731499c1dev-store.occa.ocs.oraclecloud.com/ccstore/v1/images/?source=/file/v7412315665669824417/products/101319.Pedigree%20Adult%20Small%20Breed%20Beef%20Lamb%20%20Vegetables%20Dry%20Dog%20Food-2.jpg&width=300&height=300"
+                 },
+                 {
+                   "url":"https://l7731499c1dev-store.occa.ocs.oraclecloud.com/ccstore/v1/images/?source=/file/v8288050359649414575/products/101318.Pedigree%20Junior%20Chicken%20%20Eggs%20Dry%20Food-1.jpg&width=300&height=300"
+                 }
+             ],
+            "price": "138.38",
+            "actual_price": "",
+            "discount_price": "160.28",
+            "rating": 4,
+            "special_offer":"no",
+            "total_rating_count": "224453408",
+            "isSelected": false,
+            "order_day": "5"
+          },
+          {
+            "id": "5ed51f10c68c3400101eaa35",
+            "product_name": "Vets Kitchen",
+            "product_descriptions": "Salmon for Small & Mini Sensitive Skin Puppy Kitchen",
+            "image": [
+                 {
+                   "url":"https://l7731499c1dev-store.occa.ocs.oraclecloud.com/ccstore/v1/images/?source=/file/v8288050359649414575/products/101317.Pedigree%20Chicken%20%20Vegetables%20Adult%20Dry%20Dog%20Food-1.jpg&width=300&height=300"
+                 },
+                 {
+                   "url":"https://l7731499c1dev-store.occa.ocs.oraclecloud.com/ccstore/v1/images/?source=/file/v3073537084183009604/products/100900.PURINA%20Dog%20Chow%20Complete%20Dry%20Dog%20Food.jpg&width=300&height=300"
+                 },
+                 {
+                   "url":"https://l7731499c1dev-store.occa.ocs.oraclecloud.com/ccstore/v1/images/?source=/file/v7412315665669824417/products/101319.Pedigree%20Adult%20Small%20Breed%20Beef%20Lamb%20%20Vegetables%20Dry%20Dog%20Food-2.jpg&width=300&height=300"
+                 }
+             ],
+            "price": "115.49",
+            "actual_price": "269.99",
+            "discount_price": "90.03",
+            "rating": 3,
+            "special_offer":"yes",
+            "total_rating_count": "2300000",
+            "isSelected": false,
+            "order_day": "4"
+          },
+          {
+            "id": "5ec669e238d8cc0011ecb844",
+            "product_name": "Kit Cat",
+            "product_descriptions": "Air Dried Dog Diet - Beef & Venison",
+            "image": [
+                 {
+                   "url":"https://l7731499c1dev-store.occa.ocs.oraclecloud.com/ccstore/v1/images/?source=/file/v8288050359649414575/products/101317.Pedigree%20Chicken%20%20Vegetables%20Adult%20Dry%20Dog%20Food-1.jpg&width=300&height=300"
+                 },
+                 {
+                   "url":"https://l7731499c1dev-store.occa.ocs.oraclecloud.com/ccstore/v1/images/?source=/file/v3073537084183009604/products/100900.PURINA%20Dog%20Chow%20Complete%20Dry%20Dog%20Food.jpg&width=300&height=300"
+                 },
+                 {
+                   "url":"https://l7731499c1dev-store.occa.ocs.oraclecloud.com/ccstore/v1/images/?source=/file/v7412315665669824417/products/101319.Pedigree%20Adult%20Small%20Breed%20Beef%20Lamb%20%20Vegetables%20Dry%20Dog%20Food-2.jpg&width=300&height=300"
+                 },
+                 {
+                   "url":"https://l7731499c1dev-store.occa.ocs.oraclecloud.com/ccstore/v1/images/?source=/file/v8288050359649414575/products/101318.Pedigree%20Junior%20Chicken%20%20Eggs%20Dry%20Food-1.jpg&width=300&height=300"
+                 }
+             ],
+            "price": "138.38",
+            "actual_price": "",
+            "discount_price": "160.28",
+            "rating": 2,
+            "special_offer":"no",
+            "total_rating_count": "2300000",
+            "isSelected": false,
+            "order_day": "6"
+          }
+        ]
+      }
+  }

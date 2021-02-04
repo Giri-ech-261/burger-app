@@ -1,0 +1,64 @@
+{
+  "_from": "react-native-mask",
+  "_id": "react-native-mask@0.5.0",
+  "_inBundle": false,
+  "_integrity": "sha512-FiNTT2KjhJGM0NrSTBJ5pk+II+56hP8dKT8BCfACY3PZqWmO/ui5tenzQxbp3RWRHRqlPxPkh5iKL/fPfiECtw==",
+  "_location": "/react-native-mask",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-mask",
+    "name": "react-native-mask",
+    "escapedName": "react-native-mask",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-mask/-/react-native-mask-0.5.0.tgz",
+  "_shasum": "2ed71dcdc5220172f8675ad4f3f8469a3d1196ef",
+  "_spec": "react-native-mask",
+  "_where": "/Volumes/DATA/React Native/DPF/DPF-Mobile-App",
+  "author": {
+    "name": "Michael Schneider",
+    "email": "mischneider1@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/maicki/react-native-mask/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": "Package no longer supported. Use at your own risk.",
+  "description": "If you have an item you need to fit into a shape, you can achieve this by putting a Mask on it.",
+  "devDependencies": {
+    "flow-bin": "0.61.0"
+  },
+  "homepage": "https://github.com/maicki/react-native-mask#readme",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "android",
+    "ios",
+    "windows"
+  ],
+  "license": "Apache 2.0",
+  "licenseFilename": "LICENSE",
+  "main": "index.js",
+  "name": "react-native-mask",
+  "peerDependencies": {
+    "react": ">=16.0.0",
+    "react-native": ">=0.50.0",
+    "prop-types": "^15.5.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maicki/react-native-mask.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.5.0"
+}
